@@ -1,9 +1,17 @@
 # Stanford-CS-Course
 Stanford-CS-Course
+[简体中文](README.md) | [English](README.en.md) 
+
 ![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/Stanford-CS-Course.svg) ![GitHub stars](https://img.shields.io/github/stars/isLinXu/Stanford-CS-Course.svg) ![GitHub forks](https://img.shields.io/github/forks/isLinXu/Stanford-CS-Course.svg) ![GitHub followers](https://img.shields.io/github/followers/isLinXu.svg?style=social)
  [![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=flat)](https://github.com/isLinXu/Stanford-CS-Course)  ![img](https://badgen.net/badge/icon/learning?icon=deepscan&label)![GitHub repo size](https://img.shields.io/github/repo-size/isLinXu/Stanford-CS-Course.svg?style=flat-square) ![GitHub language count](https://img.shields.io/github/languages/count/isLinXu/Stanford-CS-Course)  ![GitHub last commit](https://img.shields.io/github/last-commit/isLinXu/Stanford-CS-Course) ![GitHub](https://img.shields.io/github/license/isLinXu/Stanford-CS-Course.svg?style=flat-square)![img](https://hits.dwyl.com/isLinXu/Stanford-CS-Course.svg)
 
 ---
+
+[![img](https://www.classcentral.com/report/wp-content/uploads/2022/09/stanford-on-campus-courses-online-banner-final.png)](https://www.classcentral.com/report/wp-content/uploads/2022/09/stanford-on-campus-courses-online-banner-final.png)
+
+在过去的十年中，计算机科学在全球范围内，尤其是[在斯坦福大学的学生中](https://www.stanforddaily.com/2020/04/25/stanford-in-the-2010s-trends-in-undergrad-majors-visualized/)[流行](https://www.washingtonpost.com/business/2022/09/02/college-major-regrets/)起来 。2020 年，主修 CS 的斯坦福大学本科生人数是其他任何学科的[两倍多。](https://www.stanforddaily.com/2020/04/25/stanford-in-the-2010s-trends-in-undergrad-majors-visualized/)斯坦福的 CS 课程已经从几个[核心科目发展成为](https://cs.stanford.edu/degrees/undergrad/Requirements.shtml)[专业化](https://cs.stanford.edu/degrees/undergrad/ProgramSheets.shtml)和综合学科的大合集，如下所示。
+
+![img](https://www.classcentral.com/report/wp-content/uploads/2021/09/big-tent-cs.png)
 
 斯坦福大学的大部分校园计算机科学课程都有一个配套网站。有些只对斯坦福学生开放。但许多课程对所有人开放，让世界各地的学习者都可以访问课程幻灯片、阅读材料和作业。有些甚至提供视频课程——例如：
 
@@ -53,17 +61,17 @@ Stanford-CS-Course
 
 ----
 
-## 🎦斯坦福大学计算机科学课程简介
+## 🎓斯坦福大学计算机科学课程简介
 
 - [CS101 计算原理导论](https://web.stanford.edu/class/cs101/)
 - [CS105 计算机概论](https://www.youtube.com/playlist?list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN)🎦
 - [CS106E 探索计算](https://web.stanford.edu/class/cs106e/)
 
-## 🎦斯坦福数据结构和算法课程
+## 🎓斯坦福数据结构和算法课程
 
 - [CS161 算法设计与分析](http://web.stanford.edu/class/cs161/)
 
-## 🎦斯坦福计算机系统课程
+## 🎓斯坦福计算机系统课程
 
 - [CS106B 编程抽象](http://web.stanford.edu/class/cs106b/)
 - [CS106B 编程抽象](https://see.stanford.edu/Course/CS106B)🎦
@@ -87,7 +95,7 @@ Stanford-CS-Course
 - [CS348K 视觉计算系统](http://cs348k.stanford.edu/spring21)
 - [CS357S 计算机系统的形式化方法](https://web.stanford.edu/class/cs357/)
 
-## 🎦斯坦福理论计算机科学课程
+## 🎓斯坦福理论计算机科学课程
 
 - [CS103 计算的数学基础（2021 年秋季）](https://web.stanford.edu/class/cs103/)
 - [CS103 计算的数学基础](http://web.stanford.edu/class/archive/cs/cs103/cs103.1184/)
@@ -116,7 +124,7 @@ Stanford-CS-Course
 - [CS351 编码理论中的开放问题](http://theory.stanford.edu/~siva/cs351f02.html)
 - [CS349D 云计算技术](http://web.stanford.edu/class/cs349d/)
 
-## 🎦斯坦福人工智能和机器学习课程
+## 🎓斯坦福人工智能和机器学习课程
 
 - [CS229 机器学习](http://cs229.stanford.edu/)
 - [CS229 机器学习](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)🎦
@@ -154,7 +162,7 @@ Stanford-CS-Course
 - [CS348I 人工智能时代的计算机图形学](http://cs348i.stanford.edu/)
 - [CS528 斯坦福大学 MLSys 研讨会系列](https://mlsys.stanford.edu/)
 
-## 🎦斯坦福计算机与网络安全课程
+## 🎓斯坦福计算机与网络安全课程
 
 - [CS110L 系统编程安全](https://web.stanford.edu/class/cs110l/)🎦
 - [CS144 计算机网络概论](https://cs144.github.io/)
@@ -169,7 +177,7 @@ Stanford-CS-Course
 - [CS355 密码学高级主题](https://crypto.stanford.edu/cs355/21sp/)
 - [CS356 斯坦福计算机和网络安全主题](https://cs356.stanford.edu/)
 
-## 🎦斯坦福信息管理与分析课程
+## 🎓斯坦福信息管理与分析课程
 
 - [CS102 使用数据工具和技术](https://web.stanford.edu/class/cs102/)
 - [CS124 从语言到信息](http://web.stanford.edu/class/cs124/)
@@ -182,7 +190,7 @@ Stanford-CS-Course
 - [CS276/LING 286 信息检索和网络搜索](http://web.stanford.edu/class/cs276/)
 - [CS448B可视化](https://magrawala.github.io/cs448b-fa21/)
 
-## 🎦斯坦福人机交互课程
+## 🎓斯坦福人机交互课程
 
 - [CS147 人机交互设计导论](https://hci.stanford.edu/courses/cs147/2021/wi/)
 - [CS247 交互设计工作室](https://hci.stanford.edu/courses/cs247/2019-winter/)
@@ -193,7 +201,7 @@ Stanford-CS-Course
 - [CS547 人机交互研讨会](https://hci.stanford.edu/courses/cs547/)
 - [CS547 人机交互研讨会](https://www.youtube.com/playlist?list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD)🎦
 
-## 🎦斯坦福图形课程
+## 🎓斯坦福图形课程
 
 - [CS148 计算机图形与成像导论](https://web.stanford.edu/class/cs148/lectures.html)
 - [CS228 概率图形模型：原理与技术](https://cs228.stanford.edu/)
@@ -204,7 +212,7 @@ Stanford-CS-Course
 - [CS448 计算摄影](https://graphics.stanford.edu/courses/cs448-04-spring/schedule.html)
 - [CS468 机器学习中的非欧几里德方法](http://graphics.stanford.edu/courses/cs468-20-fall/)
 
-## 🎦斯坦福应用程序开发课程
+## 🎓斯坦福应用程序开发课程
 
 - [CS142 网络应用](https://web.stanford.edu/class/cs142/)
 - [CS190 软件设计工作室](https://web.stanford.edu/~ouster/cgi-bin/cs190-winter20/index.php)
@@ -218,7 +226,7 @@ Stanford-CS-Course
 - [CS194软件项目经验](https://web.stanford.edu/class/cs194/)
 - [CS47 跨平台移动开发](https://web.stanford.edu/class/cs47/)
 
-## 🎦斯坦福机器人课程
+## 🎓斯坦福机器人课程
 
 - [CS223A/ME320 机器人概论](https://cs.stanford.edu/groups/manips/teaching/cs223a/)
 - [CS223A 机器人介绍](https://see.stanford.edu/Course/CS223A)🎦
@@ -227,14 +235,14 @@ Stanford-CS-Course
 - [CS237B 机器人自主原则 II](https://web.stanford.edu/class/cs237b/)
 - [CS326 高级机器人操作主题](http://web.stanford.edu/class/cs326/)
 
-## 🎦斯坦福游戏课程
+## 🎓斯坦福游戏课程
 
 - [CS193U C++ 和虚幻引擎中的视频游戏开发](https://www.tomlooman.com/stanford-cs193u/)
 - [CS227 知识表示与推理](https://web.stanford.edu/class/cs227/)
 - [CS227B 一般游戏玩法](https://youtube.com/playlist?list=PLoNVFS-hCert8MHid8ldxFtI9UZR9yqUC)🎦
 - [CS269I 计算机科学奖励](http://timroughgarden.org/f18/f18.html)
 
-## 🎦斯坦福计算与社会课程
+## 🎓斯坦福计算与社会课程
 
 - [CS106S 社会公益编码](http://web.stanford.edu/class/cs106s/)
 - [CS181/181W 计算机、伦理和公共政策](https://stanfordcs181.github.io/)
@@ -250,14 +258,14 @@ Stanford-CS-Course
 - [CS398 计算教育](http://web.stanford.edu/class/cs398/)
 - [CS+社会公益：实施社会公益项目](http://web.stanford.edu/class/cs51/)
 
-## 🎦斯坦福生物计算课程
+## 🎓斯坦福生物计算课程
 
 - [CS235 生物医学图像分析和解释的计算方法](https://canvas.stanford.edu/courses/98045)
 - [CS273A 人类基因组源代码](https://web.stanford.edu/class/cs273a/cgi-bin/index.php)
 - [CS275 转化生物信息学](https://sites.google.com/site/bmi2172016/)
 - [CS279 计算生物学 生物分子和细胞的结构与组织](http://web.stanford.edu/class/cs279/)
 
-## 🎦斯坦福计算机与医疗保健课程
+## 🎓斯坦福计算机与医疗保健课程
 
 - [BIODS220 (CS271, BIOMEDIN220) 医疗保健中的人工智能](https://web.stanford.edu/class/biods220/)
 - [CS342 数字健康大楼](https://web.stanford.edu/class/cs342/)
@@ -266,7 +274,7 @@ Stanford-CS-Course
 - [CS522 医疗保健人工智能研讨会](http://cs522.stanford.edu/)🎦
 - [CS523 计算机视觉与医疗保健研究研讨会](https://web.stanford.edu/class/cs523/)
 
-## 🎦其他斯坦福课程
+## 🎓其他斯坦福课程
 
 - [CS007 工程师个人理财](https://cs007.blog/)
 - [CS349F 金融系统技术](http://web.stanford.edu/class/cs349f/)
